@@ -189,3 +189,29 @@ header {
 .creator-photo {
   width: 30px;
 }
+
+/* S E C C I Ó N   I N F O */
+
+#info {
+  margin-top: 100px;
+  width: 100%;
+  color: var(--text-white);
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor {
+  width: 70%;
+}
+
+.info-cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
